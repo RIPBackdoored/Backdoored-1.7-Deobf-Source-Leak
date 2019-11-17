@@ -6,7 +6,7 @@
 
 Backdoored 1.7 Mod file: https://workupload.com/file/s4KGwdV7
 
-Backdoored 1.7 Keygen: https://workupload.com/file/ZkDauLE7
+Backdoored 1.7 Keygen: https://workupload.com/file/EkGRq27d
 
 ### Backdoored Devs again say it is impossible, this new protection is "much better"
 <img src="https://i.imgur.com/HAq2wti.jpg" height="40%" width="40%">
