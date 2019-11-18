@@ -18,7 +18,7 @@ private static String hwid() {
         final String string = Hashing.sha1().hashString(s, StandardCharsets.UTF_8).toString();
         return Hashing.sha512().hashString(string + s + string, StandardCharsets.UTF_8).toString();
     }
-    ```
+```
 
 ### Backdoored Devs again say it is impossible, this new protection is "much better"
 <img src="https://i.imgur.com/HAq2wti.jpg" height="40%" width="40%">
